@@ -1,0 +1,9 @@
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\bin\Debug\Exception_Handling.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.MainForm.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.Properties.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Exception_Handling\Exception_Handling\obj\Debug\Exception_Handling.pdb
